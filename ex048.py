@@ -1,5 +1,5 @@
 '''
-Calcule a sdoma entre todos os numeros imapres que sao multiplso de 3
+Calcule a soma entre todos os numeros imapres que sao multiplso de 3
 '''
 
 soma = 0

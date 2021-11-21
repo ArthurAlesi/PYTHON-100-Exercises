@@ -1,6 +1,6 @@
 '''
 faça um programa que leia varios numeros inteiros e
-mostrea a soma apenas daquels q sao apres
+mostre a soma apenas daqueles que sao pares
 '''
 
 soma = 0

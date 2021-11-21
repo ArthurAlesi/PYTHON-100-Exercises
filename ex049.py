@@ -1,5 +1,5 @@
 '''
- Faça o exercicio 9 uzando for
+ Faça o exercicio 9 usando for
 '''
 
 num = int(input("Diga um numero"))
